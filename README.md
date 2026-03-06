@@ -34,4 +34,3 @@ Le projet comprend l'importation des données, la création d'une base relationn
 - Rapport Sae Migration.pdf
 
 README.md
-Description du projet.
