@@ -1,12 +1,12 @@
 # Migration-de-donn-es-vers-ou-depuis-un-environnement-NoSQL
-Description
+## Description
 
 Ce projet a été réalisé dans le cadre d'une SAÉ ayant pour objectif de migrer une base de données relationnelle (SQLite) vers une base de données NoSQL orientée graphe (Neo4j).
 
 Les données utilisées concernent les crimes et délits enregistrés par la Police et la Gendarmerie en France.
 Le projet comprend l'importation des données, la création d'une base relationnelle, puis la migration vers un modèle graphe afin de faciliter l'analyse des relations entre les données.
 
-##Travail réalisé
+## Travail réalisé
 
 - Analyse des données sources
 
@@ -20,7 +20,7 @@ Le projet comprend l'importation des données, la création d'une base relationn
 
 - Rédaction du rapport du projet
 
-##Contenu du dépôt
+## Contenu du dépôt
 
 - MCD.png
   Modèle conceptuel de données utilisé pour la base relationnelle.
