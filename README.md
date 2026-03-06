@@ -7,12 +7,12 @@ Les données utilisées concernent les crimes et délits enregistrés par les se
 
 Le projet se déroule en plusieurs étapes :
 
-Analyse des données sources
+- Analyse des données sources
 
-Création d’un modèle relationnel (SQLite)
+- Création d’un modèle relationnel (SQLite)
 
-Importation et nettoyage des données avec Python
+- Importation et nettoyage des données avec Python
 
-Migration vers une base Neo4j
+- Migration vers une base Neo4j
 
-Analyse des données avec des requêtes graphe
+- Analyse des données avec des requêtes graphe
